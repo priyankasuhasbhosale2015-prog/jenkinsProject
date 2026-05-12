@@ -6,7 +6,7 @@ public class LoginTest {
    @Test
    void hello()
    {
-	System.out.println("LOGIN TEST IS WORKING****");
+	System.out.println("LOGIN TEST IS WORKING2****");
    }
 
  }
